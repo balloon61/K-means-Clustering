@@ -9,10 +9,10 @@ c. Assign all the data points to the closest center (cluster). The criterion is 
 d. obtain the new center by calculate the average of all points in the cluster. Reason: to find the better center for this image.
 e. Repeat step b to step d, until the distance is not changing anymore.  
 
-<p align="center">![image](https://user-images.githubusercontent.com/55338365/170852841-8149f0d8-ac2e-41ef-900d-85b4612d9818.png)</p>
+![image](https://user-images.githubusercontent.com/55338365/170852841-8149f0d8-ac2e-41ef-900d-85b4612d9818.png)
 
 
-Fig 1. RGB data distribution
+<p align="center">Fig 1. RGB data distribution</p>
 
 ![image](https://user-images.githubusercontent.com/55338365/170852852-d3aca47f-f6ed-47e8-b273-7651d54ada6e.png)
 
