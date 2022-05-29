@@ -4,10 +4,15 @@ K-means Clustering
 
 Step:
 a. First select 4 points as the center, I selected (0, 0, 0), (255, 0, 0), (0, 255, 0), (0, 0, 255).
+
 b. Calculate the distance of each data to every center points. Reason: to determine which points belong to which clusters.
+
 c. Assign all the data points to the closest center (cluster). The criterion is based on Euclidean Norm (minimum distance)
+
 d. obtain the new center by calculate the average of all points in the cluster. Reason: to find the better center for this image.
+
 e. Repeat step b to step d, until the distance is not changing anymore.  
+
 
 ![image](https://user-images.githubusercontent.com/55338365/170852841-8149f0d8-ac2e-41ef-900d-85b4612d9818.png)
 
