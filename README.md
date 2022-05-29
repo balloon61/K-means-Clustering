@@ -3,6 +3,7 @@ K-means Clustering
 
 
 Step:
+
 a. First select 4 points as the center, I selected (0, 0, 0), (255, 0, 0), (0, 255, 0), (0, 0, 255).
 
 b. Calculate the distance of each data to every center points. Reason: to determine which points belong to which clusters.
